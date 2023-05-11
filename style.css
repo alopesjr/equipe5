@@ -1,0 +1,126 @@
+
+
+.form-wrapper {
+	margin: 0 auto;
+	max-width: 600px;
+	padding: 20px;
+	background-color: #f2f2f2;
+}
+
+form label {
+	display: block;
+	margin-top: 8px;
+}
+
+form input {
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+}
+
+form button {
+	background-color: #4CAF50;
+	color: white;
+	padding: 20px 50px;
+	margin: 10px 0;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	 
+}
+
+form button:hover {
+	background-color: #45a049;
+}
+
+.container {
+	margin: 0 auto;
+	max-width:1000px;
+	padding: 20px;
+	background-color: #f2f2f2;
+}
+
+
+
+.botao-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+  }
+
+
+.btn {
+	background-color: #4CAF50;
+	color: white;
+	padding: 20px 50px;
+	margin: 10px 0;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	
+	
+}
+
+table {
+	border-collapse: collapse;
+	border: 1px solid #ccc;
+	width: 100%;
+  }
+  
+  th,
+  td {
+	text-align: left;
+	border: 1px solid #ccc;
+	padding: 8px;
+  }
+  
+  th {
+	background-color: #4CAF50;
+	border: 1px solid #ccc;
+	color: white;
+  }
+  
+  tr:first-child {
+	background-color: #2196F3;
+	color: white;
+  }
+  
+  tr:not(:first-child) {
+	background-color: #f2f2f2;
+  }
+
+  a {text-align: left;
+	
+	padding: 8px;}
+
+
+	header {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		background-color:#4CAF50;
+		color: #fff;
+		padding: 10px;
+	  }
+	  
+	  header h1 {
+		font-size: 20px;
+		text-align: center;
+	  }
+	  
+	  header h2 {
+		font-size: 20px;
+		text-align: center;
+	   
+	  }
+	  
+	  header h3 {
+		font-size: 12px;
+		text-align: center;
+		margin: 0;
+	  }
+	  
